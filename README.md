@@ -1,5 +1,5 @@
 # basic-DBMS
-1.Introduction
+1 Introduction
 
 1.1 Definition
 
@@ -45,7 +45,7 @@ Assumptions
 	- disallowed type names or field names.
 	- remove record or file which is not available
 
-2. Data Structures
+2 Data Structures
 
 Our DBMS is specialized in two different part:
 
@@ -87,7 +87,7 @@ The figure of record is given below. First two column represents record header a
 - notEmpty : It stores a boolean and this boolean show that if record is notEmpty(true) or empty(false).
 - fields : They represents value of each field for this record and all of them are integer variable.
 
-3. Conclusion and Evaluation
+3 Conclusion and Evaluation
 
 To sum up, this project helped the understanding to logic of database management system and disk usage. While preparing project many problems are occurred and while solving this problems logic of database management system has been understood. 
 
